@@ -1,0 +1,671 @@
+Gerichtsverfassungsgesetz (GVG)
+Strafprozessordnung (StPO)
+Inhaltsverzeichnis
+
+Gerichtsverfassungsgesetz (GVG)	1
+Strafprozessordnung (StPO)	1
+Inhaltsverzeichnis	1
+Gerichtsverfassungsgesetz	1
+§1 - Berufsrichter	1
+§2 - Befähigung zum Richteramt	1
+§3 - Wahrung der Unabhängigkeit	2
+§5 - Aufgabengebiet	2
+§6 - Gerichtsbarkeit	2
+§7 - Rechtshilfe	3
+§8 - Öffentlichkeit	3
+§9 - Gerichtssprache	5
+§10 - Gerichtliche Abläufe	5
+§11 - Eid/ Eidspruch	5
+§ 12 - Begnadigung	6
+Strafprozessordnung (StPO)	7
+§1 - Rechtsfolgen	7
+§2 - Rechte des Beklagten	7
+§3 - Rechte des Klägers	9
+§4 - Untersuchungshaft	9
+§5 - Ermittlungsverfahren	10
+§6 - Vollstreckung der Erzwingungshaft	14
+§7 - Falsche Verdächtigung	14
+§8 - Suchwanteds	15
+§9 - Informantengesetz	15
+§10 - Revisionsverfahren	17
+§11 - Urteilssprechung	17
+§12 - Belehrung Haftbefehl Privatpersonen	18
+§13 - Verbotene Vernehmungsmethoden	18
+§14 - Justizirrtum	20
+
+Gerichtsverfassungsgesetz
+
+§1 - Berufsrichter
+
+
+Die rechtsprechende Gewalt wird durch Berufsrichter ausgeübt und stehen im Dienst des Staates Los Santos.
+
+
+Ein Richter darf Aufgaben der rechtsprechenden Gewalt und Aufgaben der gesetzgebenden oder der vollziehenden Gewalt nicht zugleich wahrnehmen.
+
+
+Außer Aufgaben der rechtsprechenden Gewalt darf ein Richter jedoch andere Aufgaben übernehmen, die ihm gesetzlich aufgelegt werden.
+
+
+Berufsrichter können aufgrund von Befangenheit nach einer Prüfung vom Verfahren abgezogen werden durch den Justizminister, den Gouverneur oder den Oberamtsrichter.
+
+§2 - Befähigung zum Richteramt
+
+
+Man erlangt die Befähigung, um als Richter zu arbeiten, wenn man ein 1-wöchiges Praktikum in der Staatsanwaltschaft geleistet hat.
+
+§3 - Wahrung der Unabhängigkeit
+
+
+Ein Berufsrichter darf sich politisch engagieren, solange das Vertrauen in seine Unabhängigkeit gewährleistet wird.
+
+§5 - Aufgabengebiet
+
+
+Ein anerkannter Berufsrichter hat folgende Aufgaben zu erledigen:
+Den Gerichtsprozess gestalten.
+Die richterliche Verfügung/Einladung zum Prozess schreiben.
+Den Gerichtsprozess führen.
+Das Urteil fällen, Verkünden und Vortragen 
+§6 - Gerichtsbarkeit
+Artikel 1
+
+
+(1) Die richterliche Gewalt wird durch unabhängige, nur dem Gesetz unterworfene Gerichte ausgeübt.
+
+(2) Die ordentliche Gerichtsbarkeit wird durch das Regierungsgericht von Los Santos ausgeübt.
+
+Artikel 2
+
+
+(1) Die Zulässigkeit des beschrittenen Rechtsweges wird durch ein nach Rechtshängigkeit eintretenden Veränderungen der sie begründenden Umstände nicht berührt. Während der Rechtshängigkeit darf die Sache von keiner Partei anderweitig anhängig gemacht werden. 
+
+(2) Das Gericht des zulässigen Rechtsweges entscheidet den Rechtsstreit unter allen in Betracht kommenden rechtlichen Gesichtspunkten.
+
+Artikel 3
+
+
+(1) Ist der beschrittene Rechtsweg zulässig, kann das Gericht dies vorab aussprechen. Es hat vorab zu entscheiden, wenn eine Partei die Zulässigkeit des Rechtsweges rügt.
+
+(2) Das Gericht, das über ein Rechtsmittel gegen eine Entscheidung in der Hauptsache entscheidet, prüft nicht, ob der beschrittene Rechtsweg zulässig ist.
+§7 - Rechtshilfe
+Artikel 1
+
+
+(1) Das Gericht hat in Zivilsachen und in Strafsachen Rechtshilfe zu leisten.
+
+(2) Das Ersuchen darf nicht abgelehnt werden.
+
+
+(3) Vollstreckungen, Ladungen und Zustellungen werden nach Vorschrift der Prozessordnungen bewirkt.
+
+
+
+
+§8 - Öffentlichkeit
+Artikel 1
+
+
+(1) Die Öffentlichkeit kann für die Hauptverhandlung oder für einen Teil davon ausgeschlossen werden, wenn das Verfahren die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus oder einer Entziehungsanstalt, allein oder neben einer Strafe, zum Gegenstand hat.
+
+(2) Die Öffentlichkeit kann ausgeschlossen werden, soweit Umstände aus dem persönlichen Lebensbereich eines Prozessbeteiligten, eines Zeugen oder eines durch eine rechtswidrige Tat Verletzten zur Sprache kommen, deren öffentliche Erörterung schutzwürdige Interessen verletzen würde. Das gilt nicht, soweit das Interesse an der öffentlichen Erörterung dieser Umstände überwiegt.
+
+(3) (a) Die Öffentlichkeit soll ausgeschlossen werden, soweit in Verfahren wegen Straftaten gegen die sexuelle Selbstbestimmung.
+
+(b) Sollte eine Person oder Personengruppe die gerichtlichen Vorgänge massiv stören, so kann diese nach 3-maliger Ermahnung vom Gerichtssaal verwiesen werden. Der Gerichtsprozess wird ohne die fehlende Person oder Personengruppe fortgesetzt.
+
+(c) Wird ein Verteidiger/Rechtsanwalt vom Gerichtssaal verwiesen, so muss sich der Beschuldigte vor Gericht selbst vertreten.
+
+(d) Wird der Beschuldigte vom Gerichtssaal verwiesen, so muss der Beschuldigte, in Anwesenheit von Exekutivbeamten oder dem USSS, in einem gesonderten Raum bis zur Urteilsfindung verweilen.
+
+
+
+Artikel 2
+
+
+(1) Das Gericht kann für die Verhandlung oder für einen Teil davon die Öffentlichkeit ausschließen, wenn
+
+(a) eine Gefährdung der Staatssicherheit, der öffentlichen Ordnung oder der Sittlichkeit zu besorgen ist.
+
+(b) eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder einer anderen Person zu besorgen ist.
+
+(c) ein wichtiges Geschäfts-, Betriebs-, Erfindungs- oder Steuergeheimnis zur Sprache kommt, durch dessen öffentliche Erörterung überwiegende schutzwürdige Interessen verletzt würden
+
+(d) ein privates Geheimnis erörtert wird, dessen unbefugte Offenbarung durch die Zeuge oder Sachverständigen mit Strafe bedroht ist.
+
+(2) Die Vollstreckung der vorstehend bezeichneten Ordnungsmittel hat der Vorsitzende unmittelbar zu veranlassen.
+
+
+(3) Gegen Parteien, Beschuldigte, Zeugen, Sachverständige oder bei der Verhandlung nicht beteiligte Personen, die sich in der Sitzung einer Ungebühr schuldig machen, kann vorbehaltlich der strafgerichtlichen Verfolgung ein Ordnungsgeld bis zu 50.000 Dollar oder eine Ordnungshaft von bis zu 25 Hafteinheiten festgesetzt und sofort vollstreckt werden. 
+
+Das Gericht kann eine Unterbrechung oder Verschiebung der Verhandlung  festlegen, wenn das Ungebühren im Gerichtssaal während der Verhandlung nicht abnimmt.
+
+(4) Bei der Festsetzung von Ordnungsgeld ist zugleich für den Fall, dass dieses nicht beigetrieben werden kann, zu bestimmen, in welchem Maße Ordnungshaft an seine Stelle tritt.
+
+(5) Über die Festsetzung von Ordnungsmitteln entscheidet gegenüber Personen, die an der Verhandlung nicht beteiligt sind, der Vorsitzende, in den übrigen Fällen das Gericht.
+
+(6) Wird er wegen derselben Tat später auf Strafe erkannt, so sind das Ordnungsgeld oder die Ordnungshaft auf die Strafe anzurechnen.
+§9 - Gerichtssprache
+
+Artikel 3
+
+
+(1) Die Gerichtssprache ist die amtlich anerkannte Amtssprache (Deutsch).
+§10 - Gerichtliche Abläufe
+
+
+Artikel 1
+ 
+(1)  Der gerichtliche Ablauf einer Verhandlung wird durch den Richter und das Gesetz festgelegt.
+
+(2) Die Gerichtsverhandlung läuft wie folgt ab, Begrüßung der jeweiligen Parteien, Richter werden vorgestellt. Danach Verlesung Klageschrift > Eröffnungsplädoyer des Richters sowie der Staatsanwaltschaft > Eid > Vernehmung des Angeklagten > Vernehmung von Zeugen (Zeugenaussagen) > Beweismittel Aufnahme/Klärung > Anträge der jeweiligen Parteien > Schlussplädoyer der Staatsanwaltschaft > Urteilsfindung und Urteilsspruch.
+
+
+
+
+
+
+
+§11 - Eid/ Eidspruch
+
+
+Eine Aussage unter Eid bedeutet, dass sich die Person verpflichtet, die Wahrheit und nichts als die Wahrheit zu sagen. Beamte und Angehörige einer staatlichen Organisation schwören den Eid schriftlich beim Unterschreiben Ihres Arbeitsvertrages. 
+Man darf bei einer Befragung vor Gericht die Aussage verweigern falls man sich selbst oder Ehepartner damit belasten würde.
+Falls man von a) gebrauch macht ist die Befragung des Zeugen beendet.
+
+
+Beamte:
+Ich schwöre, das Grundgesetz und alle in Los Santos geltenden Gesetze zu wahren und meine Amtspflichten gewissenhaft zu erfüllen. Optional: So wahr mir Gott helfe.
+
+
+Soldaten: 
+Ich schwöre, dem Staat Los Santos treu zu dienen und das Recht und die Freiheit des Volkes tapfer zu verteidigen. Optional: so wahr mir Gott helfe.
+
+
+Tatverdächtige oder Zivilisten:
+Ich schwöre, nur die Wahrheit zu sagen und keine falschen Informationen bereitzustellen.
+
+
+Richter:
+Richter haben einen Eid beim Antritt ihres ersten Dienstes unter Zeugen zu verlesen, er lautet, wie folgt  "Ich schwöre, das Richteramt getreu dem Grundgesetz für den Staat Los Santos und getreu dem Gesetz auszuüben, nach bestem Wissen und Gewissen ohne Ansehen der Person zu urteilen und nur der Wahrheit und Gerechtigkeit zu dienen, so wahr mir Gott helfe."
+
+
+Wer diesen Eid bricht, macht sich nach § 33 StGB  Meineid strafbar.
+
+
+                                       § 12 - Begnadigung
+
+
+Nur der Gouverneur und der stellvertretende Gouverneur können Personen einmalig, alle 30 Tage, begnadigen. Die Begnadigung stellt somit eine erneute Chance auf ein straffreies Leben dar.
+ 
+(1) Begnadigt werden kann, wer: 
+a) keine Straftat nach StGB §36 Abs. 4 begangen hat. 
+b) wer eine Freiheitsstrafe von mindestens 3 Wanteds zu verbüßen hat. 
+c) ein ausführliches Reueschreiben an die Justiz geschrieben hat. 
+Alle Punkte müssen erfüllt sein.
+
+
+
+
+(2) Eine Begnadigung muss enthalten: 
+a) das Reueschreiben nach Abs. 1 (c) wörtlich enthalten. 
+b) die Paragrafen, die erlassen werden. 
+c) die Unterschrift von dem Gouverneur, dem Vize Gouverneur und dem Justizminister als Vertreter der Judikative enthalten. 
+d) das Siegel vom Gouverneur auf jeder Seite. 
+Alle Punkte müssen erfüllt sein. 
+
+(3) Sollte einer der Punkte bei Erstausstellung nicht erfüllt oder fehlerhaft sein, so ist die Begnadigung ungültig. Eine ungültige Begnadigung zählt als ausgestellte Begnadigung. Das Überschauen fällt in die Aufgaben des Justizminister.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strafprozessordnung (StPO)
+§1 - Rechtsfolgen
+.
+Um eine Straftat oder Ordnungswidrigkeit zu ahnden, kann ein Beamter Geld-, Freiheitsstrafen und Platzverweise im Sinne des Bußgeldkataloges erteilen.
+
+Exekutivbeamte haben das Recht, Führerschein, Wassertransport Lizenz, Luftverkehrs Lizenz und Waffenlizenzen im Sinne des Bußgeldkataloges einzuziehen, sowie persönlichen Besitz (mögliche Beweismittel) zu beschlagnahmen und im Anschluss zu vernichten.
+
+
+Bei begründetem Verdacht auf eine Strafsache haben Beamte folgende Sonderrechte:
+Durchführung von Leibesvisitationen
+Durchsuchung von Privatbesitz
+Vorläufiges Festhalten des Verdächtigen bis zu einer Klärung des Sachverhaltes
+Durchsuchungen und Beschlagnahmung von Fahrzeugen sind ebenfalls im Sinne des Bußgeldkataloges zulässig.
+
+Verletzt dieselbe Handlung dasselbe Strafgesetz mehrmals, so wird nur ein Verstoß bestraft.
+Hat jemand mehrere Straftaten begangen, die gleichzeitig bestraft werden und mehrere Verbrechen unter Freiheitsstrafe stehen, so wird nur die schwerste Straftat bestraft.
+Begeht der Tatverdächtige mehrere Straftaten, so erhält er die Geldstrafe für die schwerste Straftat, die anderen werden dennoch in der Geldstrafe aufgeführt. Eine Ausnahme stellen Haftbefehle und Beschlüsse dar, Geldstrafen aus Haftbefehlen bzw. Beschlüssen fassen die einzelnen Verstöße zusammen und sind zusammengefasst auszustellen.
+
+
+§2 - Rechte des Beklagten
+Der Beamte ist verpflichtet, die gegen den Beschuldigten erhobenen Vorwürfe vor der vollständigen Aktenvergabe offenzulegen.
+a)Die Strafe StPO §6 kann ohne Nennung des Tatvorwurfs ausgestellt werden.
+b)Die Strafe StGB §14 kann ohne Nennung des Tatvorwurfs ausgestellt werden. 
+
+
+In Ausnahmefällen, in denen die betroffene Person als flüchtig gilt und eindeutig durch Personalien identifiziert werden konnte, kann auf die Nennung der Tatvorwürfe verzichtet werden.  
+
+
+Der Beschuldigte hat folgende Rechte, welche im Zeitraum nach Anlegen der Handschellen, jedoch spätestens vor dem Ausstellen der Strafakte sowie Bußgeld stattfinden muss und von einem Exekutivbeamten verlesen werden müssen, ohne dass der Beschuldigte dies fordert:
+Sie haben das Recht zu schweigen, alles was Sie sagen kann und wird gegen Sie verwendet werden. Ab 3 Wanteds haben Sie das Recht auf einen staatlich anerkannten Anwalt, den Sie selbst benennen müssen. Wenn kein Anwalt verfügbar ist, wird Ihnen keiner gestellt. Die Judikative übernimmt der Exekutivbeamte. Wenn ein Anwalt hinzugezogen wird, kann es länger als 25 Minuten dauern. Haben Sie ihre Rechte verstanden?
+
+Der Beschuldigte muss nach Betreten der Zelle auf die nicht verlesenen Rechte aufmerksam machen. Ein Richter / Staatsanwalt muss dann zur Aufklärung dazu gerufen werden, dieser entscheidet dann über den Fall.
+
+
+
+Das Verlesen der Rechte ist den Beamten des SAHP/LSPD/FIB verpflichtet. Soldaten der NG sowie Beamten des USSS sind verpflichtet, bei Abgabe eines Tatverdächtigen an eine Behörde den jeweiligen Beamten darauf aufmerksam zu machen, dass die Rechte verlesen werden müssen.
+
+
+Wenn der Beamte die Verlesung unterlässt, kann ein Beschuldigter nicht für die ihm zur Last gelegten Delikte belangt werden. Die Akte ist in diesem Fall zu löschen sowie der Beschuldigte umgehend zu entlassen.
+
+
+Bei einem Verstoß nach StGB §25 findet StPO §2 (3), sowie StPO §2 (5) keine Anwendung.
+
+
+Wenn ein Tatverdächtiger äußert, dass ihm oder ihr die Rechte bereits bekannt sind, müssen diese nicht von den Beamten vorgelesen werden.
+
+Das Recht auf eine anwaltliche Rechtsvertretung bedeutet:
+Dass diese von dem Exekutivbeamten auf Anforderung des Beschuldigten angerufen wird.
+Eine Rechtsvertretung besteht aus einem freien, staatlichen anerk. Rechtsanwalt. 
+
+Der Exekutivbeamte muss dem Beschuldigten die Möglichkeit bieten, einen Rechtsanwalt benennen zu dürfen.
+Dieser wird dann von dem Exekutivbeamten angerufen, sofern dieser im Anwaltsregister vertreten ist.
+Übernimmt der benannte Rechtsanwalt des Beschuldigten das Mandat, hat der Beschuldigte kein Recht, sich selbst zu vertreten.
+Bei Fahndungslevel 2 oder niedriger gibt es kein Recht auf einen Rechtsanwalt.
+(9) Sollte man bei einer FIBCO/Justiz Befragung die ihm zu Last gelegten Tatvorwürfe und oder ihm nicht zur Last gelegten Straftaten gestehen. Wird dies als Geständnis und somit als Beweis gewertet und verwendet.
+§3 - Rechte des Klägers
+Im Falle einer Anklage durch eine Privatperson liegt es in dem Ermessen des Klägers, die Anklage fallen zu lassen.
+
+
+Im Falle einer Anklage durch Exekutivbeamten liegt es in seinem Ermessen, dem Beschuldigten nach § 35 Reue einzelne Anklagepunkte fallen zu lassen.
+§4 - Untersuchungshaft
+
+(1) Die Untersuchungshaft darf gegen den Beschuldigten angeordnet werden, wenn er der Tat dringend verdächtigt wird und ein Haftgrund besteht. Sie darf nicht angeordnet werden, wenn sie zu der Bedeutung der Sache und der zu erwartenden Strafe oder Maßregel der Besserung und Sicherung außer Verhältnis steht. Sie darf maximal 20 Minuten betragen, des Weiteren können zur Klärung weitere 10 Minuten durch das Justizministerium angeordnet werden.
+
+
+(2) Ein Haftgrund besteht, wenn aufgrund bestimmter Tatsachen 
+
+
+1. festgestellt wird, dass der Beschuldigte flüchtig ist oder sich verborgen hält,
+2. bei Würdigung der Umstände des Einzelfalles die Gefahr besteht, dass der Beschuldigte sich dem Strafverfahren entziehen werde (Fluchtgefahr), oder 
+3. das Verhalten des Beschuldigten den dringenden Verdacht begründet, er werde 
+
+
+a) Beweismittel vernichten, verändern, beiseite schaffen, unterdrücken oder fälschen oder 
+b) auf Mitbeschuldigte, Zeugen oder Sachverständige in unlauterer Weise einwirken oder 
+c) Andere zu solchem Verhalten veranlassen, und wenn deshalb die Gefahr droht, dass die Ermittlung der Wahrheit erschwert wird (Verdunkelungsgefahr).
+
+
+
+§5 - Ermittlungsverfahren
+
+(1) 
+Strafrechtliche Ermittlungen werden eigenständig durch Beamte des LSPD, SAHP, FIB, USSS, NG und der Staatsanwaltschaft und Justizleitung gegen zivile Personen durchgeführt.
+
+
+Disziplinarische Ermittlungen gegen Beamte der eigenen Organisation sind jeder Organisation freigestellt.
+
+
+Strafrechtliche Ermittlungen gegen Beamte sind sowohl dem FIB als auch der Staatsanwaltschaft gestattet. Beide Behörden sind befugt, Verfahren zu führen. Bei offenen Fragen innerhalb der Akte haben sowohl die Staatsanwaltschaft als auch das FIB das Recht, im Rahmen des gleichen Verfahrens eigenständig Befragungen durchzuführen, die in der Akte dokumentiert werden müssen. Die Ermittlungen sind vor allem Aufgabe der Korruptionsabteilung des FIB, wobei die Staatsanwaltschaft ebenfalls vollumfänglich ermächtigt ist, Ermittlungen einzuleiten und zu führen, dafür muss die Abwesenheit des Corruption Office gegeben sein. Darüber hinaus ist die Staatsanwaltschaft verpflichtet, ihre Ermittlungsergebnisse regelmäßig und vollständig an das Corruption Office des FIB weiterzuleiten, sofern dies allgemein verfügbar ist.
+
+
+Spezial Beamte des FIB sind dazu befugt, strafrechtliche Ermittlungen gegen Beamte einzuleiten.
+Eine Befragung in einem Korruptionsverfahren wird als rechtskräftig und als möglicher Beweis gewertet, sobald der Befragte über seine Rechte in einer Befragung in Kenntnis gesetzt wurde. Die Rechte müssen nicht wortgetreu wiedergegeben werden, jedoch muss der Inhalt gleich bleiben. Diese Belehrung lautet wie folgt: 
+
+„Sie haben das Recht zu schweigen. Alles, was Sie sagen, kann und wird vor Gericht gegen Sie verwendet werden. Sie haben das Recht, zu jeder Vernehmung einen Rechtsanwalt hinzuzuziehen. Haben Sie das verstanden?“
+
+
+
+
+(2) Während eines Ermittlungsverfahrens kann ein Staatsanwalt bei den Exekutivbehörden bei der Ausführung jeglicher Art teilnehmen und insbesondere bei der Vernehmung von Zeugen, der Durchsuchung von Räumlichkeit und Grundstücken oder eines Durchsuchungsbefehl.
+(3) Erlangt ein Justizbeamter strafrechtlich relevante Informationen, ist er verpflichtet, diese entweder der Korruptionsabteilung des FIB zu melden oder ein Ermittlungsverfahren einzuleiten. Die Korruptionsabteilung des FIB ist mit möglichen Ermittlungen zu betrauen.
+(4) Bei angewiesenen Ermittlungen von Seiten der Staatsanwaltschaft ist die ermittelnde Behörde verpflichtet, dem Folge zu leisten.
+(5) Der Exekutivbeamte hat das Recht, bei eindeutigem Verdacht eine Leibesvisitation und eine Fahrzeugdurchsuchung durchzuführen, um den Verdacht zu bestätigen und/oder Beweise zu sichern. 
+(6) Nur der zuständige Gouverneur, Vizegouverneur und Generalstaatsanwalt kann einen Durchsuchungsbefehl ausstellen, wenn der schwere Verdacht auf Verdunkelung in einer Strafsache vorliegt. Dieser Befehl kann mündlich erfolgen, muss aber innerhalb von 24 Stunden begründet schriftlich nachgereicht werden. Die Anträge für Durchsuchungsbefehle werden vom FIB an die Regierung gestellt. Die Vollstreckung hat nur durch die Exekutivbehörden zu erfolgen. // Damit sind Razzien gemeint.
+
+(7) Sämtliche Ermittlungen, die unter Geheimhaltung im Federal Bureau of Investigation fallen, werden durch die zuständigen Verantwortlichen (Leitung des Geheimdienstes, stv. Leitung) genehmigt. Diese Genehmigung bedarf keiner Veröffentlichung, außer sie wird von der Justiz beauftragt. Der Auftrag der Justiz ist dem dann folge zu leisten.
+
+a) Die höchste Instanz der Justiz (Justizminister, Leitung der Richterschaft und die Leitung der Staatsanwaltschaft) können, sofern nötig, die Geheimhaltung der Akte/n gegenüber der Justiz genehmigen.
+
+b) Sobald gegen die Justiz ermittelt wird, müssen die Akten der Justiz nicht ausgehändigt werden, sofern in den Augen des FIBs eine Gefahr der Veröffentlichung im Raum steht. Der Gouverneur sowie der Vizegouverneur können dafür die Akte anfordern und ist die richtende Hand gegenüber der Justiz bei begangener Straftat. Gegen Beamte der Justiz dürfen die Haftbefehl und Beschlüsse von dem Gouverneur / Stellv. Gouverneur erstellt und unterschrieben werden.
+
+c) Dem FIB ist es gestattet, bei Staatsbeamten Wanteds zu entfernen, um einer direkten Vollstreckung entgegenzuwirken. Im Anschluss erstellt das FIB eine Ermittlungsakte, welche vom zuständigen geprüft wird (in der Norm, die Justiz).
+
+
+d) Das Entfernen von Wanteds, ist dem LSPD, SAHP und FIB gestattet, wenn von einem Unfall ausgegangen werden kann. Die gesuchte Person muss mit einem Verunfallten, als Zeugen, dies auf direktem Wege melden. Die Aussagen werden unabhängig geprüft. Der gesamte Prozess von der Löschung von Wanteds muss per Bodycam aufgezeichnet werden.
+
+e) Sofern ein Beamter des EMS Wanteds erhält, muss dieser dies der Leitungsebene (bei Abwesenheit interne Meldekette einhalten) melden. Anschließend meldet der Beamte im Beisein des oben genannten Vorgesetzen den Vorfall beim LSPD, SAHP oder FIB. Diese Organisationen müssen anschließend die Wanteds löschen. Der jeweilige Vorgesetze des EMS Beamten muss in einem Angemessen Zeitraum dem FIB Corruption Office den Vorfall melden. 
+
+
+(8) Von einer Beweislastumkehr spricht man, wenn nicht der Exekutivbeamte die Voraussetzungen seines Anspruchs beweisen muss, sondern der Gegner deren Fehler. 
+Eine Beweislastumkehr beruht zumeist auf einer gesetzlichen Vermutung.
+§6 - Vollstreckung der Erzwingungshaft
+(1) Sollte eine Person das Bußgeld Limit von $500.000 erreicht haben und dies bei einer Personenkontrolle festgestellt wird, so wird die Person in Erzwingungshaft gesteckt. Die Erzwingungshaft der Bußgeld Limit Überschreitung wird mit 5 Wanteds bestraft.
+
+“Erzwingungshaft durch Beschluss” ist eine Strafe für das nicht zahlen von Beschlüssen und stellt die Vollstreckung des Beschlusses dar und wird angeordnet, wenn der/die Betroffene das im bestandskräftigen Beschluss verordnete Bußgeld der Justiz innerhalb von 72 Stunden nicht zahlt. Die Frist wird ausgesetzt solange es ein aktives Revisionsverfahren gibt.
+
+(2) Der Betroffene kann die Vollstreckung der Erzwingungshaft nicht abwenden.
+
+(3) Bei “Erzwingungshaft durch Beschluss” entsprechen $15.000 einem Wanted, es wird nicht aufgerundet und nur volle $15.000 als Wanted gezählt.
+
+(4) Die “Erzwingungshaft durch Beschluss” kann jederzeit durch Zahlung des geforderten Geldbetrags abgewendet werden. Eine Erzwingungshaft entfällt nach Eingang der Zahlung, jedoch nicht mehr nach Verstreichen der Frist. Eine verspätete Zahlung gilt als nicht geleistete Zahlung.
+
+(5) Eine Aufschiebung der “Erzwingungshaft durch Beschluss” Frist ist möglich und muss begründet bei der Justiz eingereicht werden (Zahlungsschwierigkeiten etc.). Die Aufschiebung liegt maximal bei 7 Tagen, insgesamt also 1 Woche und 3 Tage. Ausnahmen in besonderen Fällen sind möglich.
+
+(6) Eine “Erzwingungshaft durch Beschluss” gilt somit als Haftbefehl (siehe Abs. 2). Die begangene Tat des ist somit “StPO §6 - Vollstreckung der Erzwingungshaft”. Weitere Geldstrafen im gleichen Strafverfahren sind unzulässig, da der Verurteilte somit als zahlungsunfähig gilt.
+
+
+
+§7 - Falsche Verdächtigung
+(1) Eine falsche Verdächtigung steht unter Strafe. Diese liegt vor, wenn der Täter vor einer zuständigen Stelle vorsätzlich den Verdacht erweckt, eine andere Person habe eine Straftat begangen, obwohl dies nicht der Wahrheit entspricht.
+
+(2) Dies wird mit StGB §39 Verleumdung gleichgesetzt.
+
+§8 - Suchwanteds
+(1) Die von der Justiz beauftragte Exekutivbehörde darf bei Bestehen eines rechtsgültigen Haftbefehls der betroffenen Person 1 mal alle 3 Tage Suchwanteds ausstellen, um eine Vollstreckung des Haftbefehls zu ermöglichen. Durch Suchwanteds kann der Tatverdächtige über das PDA gesucht werden.
+
+
+(2) Der Haftbefehl kann trotz Ausstellung der Suchwanteds regulär vollstreckt werden und verliert erst nach 30 Tagen die Gültigkeit. Weiteres regelt der § 36 StGB -- Verjährung.
+
+
+(3) Suchwanteds werden mit 5 Sternen ausgestellt, seitens des LSPD & SAHP dürfen einmalig 2 Suchwanteds ausgestellt werden.
+
+(4) Die Ausstellung ist in der Akte zu vermerken und Beweise müssen gesichert werden.
+
+
+(5) Bei der Ausstellung der Suchwanteds müssen folgende Informationen vermerkt werden: 
+      1. Suchwanteds 
+      2. Aktenzeichen des Haftbefehls 
+      3. Datum und Uhrzeit der Ausstellung
+
+
+(6) Suchwanteds werden nach Ablauf einer Frist von 72h oder nach Auffinden der gesuchten Person, aus der Akte gelöscht .
+
+
+                                 § 9 - Informantengesetz
+
+
+(1) Zeugen sind Aussageträger, die einzeln auftreten. Informanten sind Zeugen, die beständig und längerfristig Informationen liefern. Informanten und Zeugen dürfen  von jeder Organisation wahrgenommen werden.
+
+
+a) Informanten dürfen jeder Organisation Informationen liefern, wenn diese im direkten Bedarf stehen (z.B. Informationen zu einem FZ-Raid), andere Informationen, müssen an das FIB gereicht werden.
+
+
+b) Informanten, welche Informationen liefern, welche für weitreichende Ermittlungen genutzt werden, dürfen nur vom FIB geführt werden. Informationen bezüglich BDG §14, müssen an das FIB weitergegeben werden, gehen dann diesen nach und senden Ergebnisse an zuständige (in der Norm die Justiz)
+
+
+c) Der Lifeinvader darf jegliche Informationen aufnehmen, ist jedoch verpflichtet, Informationen, die unter die Geheimhaltung fallen, vertraulich zu behandeln. Diese Informationen dürfen nicht veröffentlicht werden. Sollte der Lifeinvader solche Informationen erhalten, so ist er verpflichtet, den Eingang und den Melder dem FIB und der Staatsanwaltschaft zu melden, es sei denn, dies gefährdet den Quellenschutz. Veröffentlichungen geheimhaltungswürdiger Informationen müssen mit dem FIB abgesprochen werden, wenn eine unmittelbare Gefährdung besteht.
+
+d) Informanten und Zeugen sind auf Anfrage der Justiz anzugeben (außer diese sind über das FIB geschützt). 
+
+
+(2) Alle Organisationen haben die Möglichkeit über eine Zustimmung des FIBs (die eines leitenden Ermittlers), die Identität von Zeugen zu schützen. Die Identität ist vertraulich zu betrachten und die Weitergabe an Unberechtigte wird mit Hochverrat geahndet. Leitende Ermittler, sowie die Leitungsebene des FIB sind berechtigt, die Identität von Zeugen/ Informanten immer zu kennen.
+
+
+
+(3) Zeugen/ Informanten sind zu schützen, wenn die Preisgabe ihrer Identität zu massiven Folgen für sie oder die Ermittlungen führt. 
+a) Die Gewährung kann bei der jeweiligen Organisation angefragt werden, jedoch fungiert das FIB entscheidend. Das FIB ist in diesem Sinn immer dazu berechtigt, die Identität von Zeugen zu schützen.
+
+
+b) Das FIB kann die Identität von Zeugen auch vor der Justiz schützen. Gouverneure können die Aussagen prüfen, dürfen jedoch die Identität nicht weitergeben. Sollte ein Gouverneur selbst Bestandteil der Ermittlungen sein, wird die Identität nur der Justizleitung offengelegt. 
+
+
+(4) Ein Informant/ Zeuge, kann bei ermittelter Korrektheit, ein Entgelt für Informationen verlangen. Das FIB und das LI, sind berechtigt, für Informationen eine Zahlung auszuhändigen (Vorteilsgewährung §8 BDG entfällt).
+
+
+a) Ein Entgelt kann von jeder Organisation ausgestellt werden. Die Aushändigung muss jedoch vom FIB geprüft werden. Das FIB entscheidet über die Höhe der Zahlung und ist weisungsbefugt. Die Prüfungspflicht des FIB entfällt für den Lifeinvader, um redaktionelle Unabhängigkeit zu gewährleisten. Auf Anfrage muss die Auszahlung dokumentiert werden. 
+
+
+b) Ausgestellte Gelder müssen dokumentiert werden und sind von der Justiz einforderbar. Die Identität der Informationsträger bleibt geschützt. Falls der Identitätsschutz aktiv ist, kann sie nur durch die Gouverneure angefordert werden, es sei denn, 3b ist anwendbar.
+
+
+c) Gelder werden nie angeboten, sondern nur von Zeugen verlangt. Die Ausnahme bildet sich das FIB/ LI.
+d) Informationen können mit einer Summe entlohnt werden (diese obliegt dem FIB). Auszahlungen, welche Verbrechen von Staatsbeamten beinhalten, können erst nach Urteil entlohnt werden.
+
+
+(5) Informanten und Zeugen sind rechtlich gleich zu betrachten, außer diese werden im Gesetz anders betrachtet.
+
+
+
+
+
+§ 10 - Berufungsverfahren
+
+
+(1)Ein Berufungsverfahren kann nur gegen einen Beschluss, Haftbefehl eingeleitet werden, mit Ausnahme von Haftbefehlen durch StPO §6..
+
+(2) Ein Antrag auf ein Berufungsverfahren kann von allen Prozessbeteiligten schriftlich eingereicht werden. Dieser muss begründet sein.
+
+(3) Die Berufung muss 48h nach dem Bekanntwerden des Strafbefehls bei der Justiz eingereicht (eingereicht ≠ bearbeitet) werden. 
+
+(4) Erstinstanzlich verantwortlich für Haftbefehle, Beschlüsse oder ähnliches ist der Richter (sollte kein Richter da sein oder es dringend sein kann auch der Oberamtsrichter einspringen). Der Oberamtsrichter ist die Leitende Instanz und entscheidet welcher Richter die zweiter Instanz (also im Berufungsverfahren) zuständig ist. Es darf kein Richter in das Berufungsverfahren eingreifen der den Haftbefehl/Beschluss geschrieben hat. 
+ 
+(5)
+a) Das neue Urteil darf nicht höher ausfallen als das Urteil der ersten Instanz.
+
+b) Das Urteil der ersten Instanz muss gemäß BDG §21 Abs. 8 widerrufen werden
+ 
+(6) Sollte im ersten Urteil ein Freispruch ergehen und das Berufungsverfahren zugelassen sein so gilt Abs. 5 nicht.
+
+(7) Für die Normen in welchen fälschlicherweise noch ein Revisionsverfahren erwähnt wird, gilt das Berufungsverfahren entsprechend. 
+ 
+(8)
+a) Um ein Berufungsverfahren zu eröffnen, muss ein Berufungsantrag bei der Justiz eingereicht werden. Die Mandatsübernahme ist gleichzeitig auch der Berufungsantrag.
+
+b) Im Berufungsverfahren können die Beweise angefordert werden, welche dem Beschuldigten zur Last gelegt werden, sowie alle personenbezogenen Daten.
+
+c) Es muss im Antrag enthalten sein, wann das Urteil aus der ersten Instanz vollstreckt werden sollte (Datum, Uhrzeit +-15min).
+ 
+d) Die Absätze 2, 5, 6, 7 und 9 des §10 des Justizbeitreibungsgesetzes gelten entsprechend.
+
+e) Sobald einer der Absätze 1, 2, 3, 8a oder 8c nicht erfüllt oder auch nur zum Teil erfüllt sind kann die Justiz das Berufungsverfahren ablehnen.
+
+
+§11 - Urteilssprechung
+Dieses Gesetz regelt die gerichtlichen Entscheidungen, die durch das Zusammenwirken von Staatsanwaltschaft und Richterschaft zustande kommen, die so genannten Beschlüsse und Haftbefehle,
+mit Ausnahme der Verfahren, in denen die Exekutive die richterliche Gewalt gemäß § 2 StPO ausübt.
+
+
+(1) Das Urteil wird von einem Richter gesprochen, ein Richter ist nach GVG §1    und GVG §2 definiert 
+
+(2) Das Urteil muss, wenn es mündlich verkündet wird, spätestens 72h allen Prozessbeteiligten zur Verfügung stehen, erst ab dann gilt die Frist nach StPO §10 Abs. 3
+
+(3) Eine Urteilsbegründung muss folgendes enthalten:
+   a) eine Transparente Aufschlüsselung für das Strafmaß
+   b) die Unterschrift des Richters / der Richter
+   c) das Aktenzeichen
+   d) Datum der Verkündung des Urteils; wurde das Urteil mündlich verkündet, dann das Datum der ersten Verkündung.
+   e) eine Beschreibung des Vorfalls, der Gegenstand des Verfahrens ist
+
+Sollte eine der Punkte a) bis e) fehlen, so kann Einspruch nach StPO §10 eingereicht werden.
+
+(4) Nebenstrafen, wie z.B. die Anordnung von Kursen o.ä., sind, soweit sie vorgesehen sind, im Urteil gesondert aufzuführen.
+
+(5) Eine Abänderung des Urteils ist ohne Wiederaufnahmeverfahren ausgeschlossen (StPO § 10).
+
+§12 - Belehrung Haftbefehl Privatpersonen
+
+(1) "Die Justiz hat einen Haftbefehl gegen Sie erlassen, Sie haben das Recht zu schweigen. Alles, was Sie sagen, kann und wird gegen Sie verwendet werden. Sie haben das Recht gegen den Haftbefehl vor Gericht zu ziehen, falls Sie dies möchten, müssen Sie innerhalb von 48 Stunden eine Klage über einen Rechtsanwalt bei der Regierung gegen den Haftbefehl einreichen. Sollte dies nicht in der genannten Frist geschehen oder sollten Sie einen Gerichtsprozess ablehnen, wird der Haftbefehl von den ausgewählten Beamten vollstreckt. Wenn Sie flüchten haben Sie kein Recht mehr auf einen Rechtsanwalt.”
+
+(2) Sollte der Einspruch nachträglich eingereicht werden, ist die Einsicht des Sachverhalts ungültig und es können nur Fehler bei der Durchführung des Haftbefehls beanstandet werden.
+
+§13  Verbotene Vernehmungsmethoden
+ 
+(1) Die Freiheit der Willensentschließung und der Willensbetätigung des Beschuldigten oder des Zeugen darf nicht beeinträchtigt werden durch Misshandlung, durch Ermüdung, durch körperlichen Eingriff, durch Verabreichung von Mitteln, durch Quälerei oder durch Hypnose.
+(2) Maßnahmen, die das Erinnerungsvermögen oder die Einsichtsfähigkeit des Beschuldigten oder des Zeugen beeinträchtigen, sind nicht gestattet. Suggestivfragen sind vor Gericht nicht zulässig.
+(3) Das Verbot der Absätze 1 und 2 gilt ohne Rücksicht auf die Einwilligung des Beschuldigten oder des Zeugen. Aussagen, die unter Verletzung dieses Verbots zustande gekommen sind, dürfen auch dann nicht verwertet werden, wenn der Beschuldigte oder der Zeuge der Verwertung zustimmt.
+
+§14 Justizirrtum
+
+(1) Wenn das juristische Schriftstück (Beschlüsse, Haftbefehle, Schriftstücke usw.) nicht den Vorgaben des BDG §21 entspricht oder Paragraphenfehler aufweist, wird das ausgestellte Dokument für nichtig erklärt. 
+(2) Sollte das Irrtum durch die Justiz entstanden sein, wird die beschuldigte Person somit freigesprochen und alle zu diesem Fall ausgestellten Akteneinträge müssen gelöscht werden. Sollte es zu einem Irrtum seitens der Rechtsanwaltschaft, innerhalb des Revisionsverfahren, einer Mandatsübernahme oder einem Forderungsschreiben kommen, kann die Justiz das Verfahren einstellen. Es gelten somit die vorher gesprochenen Urteile bzw. Akten.
+(3) Eine erneute Ausstellung des Dokuments ist unzulässig. 
+(4) Dieses Gesetz tritt erst in Kraft, sobald die Belehrung stattgefunden hat. 
+(5) Ein Justizirrtum hemmt nicht die Verjährungsfristen.
+
+					
+
+
+§15 Abschlussworte
+
+(1) Der Angeklagte hat im Hauptverfahren das letzte Wort und kann sich in der Hauptverhandlung als letzte Person zu dem ihm vorgeworfenen Sachverhalten äußern.
+(2) Sollte der Angeklagte beim letzten Wort durch Prozessbeteiligte unterbrochen werden, so gilt erneut Abs. 1.
+(3) Sollte der Angeklagte im Hauptverfahren keine letztes Wort sprechen wollen, so muss der Angeklagte dies ausdrücklich dem Gericht mitteilen.
+(4) Im Anschluss zum letzten Wort folgt die Urteilsfindung durch den vorsitzenden Richter.
+
+
+
+
+§16  Einstellung eines Verfahren gegen Amtsträger
+
+(1) Die Ermittlungsbehörde kann bei mangelnder Beweislast oder fehlenden Verdacht auf Vollendung einer Straftat das Strafverfahren gegen Beamte einstellen und somit eine Ermittlungsakte schließen.
+
+a)Die Organisationsleitung entscheidet darüber, welche Beamten der Ermittlungsbehörde von diesem Recht Gebrauch machen können.
+
+(2) Ein eingestelltes Verfahren gilt nicht als Freispruch und kann bei neuer, mehr belastender Beweislast durch die Ermittlungsbehörde wieder aufgenommen werden.
+(3) Disziplinarmaßnahmen bzw. Disziplinarverfahren sind ebenfalls bei fehlender Beweislast einzustellen. Die Verwaltung von Disziplinarstrafen liegt im Aufgabenfeld der Behörden.
+(4) Strafen mit niedriger strafrechtlicher Relevanz müssen von der Ermittlungsbehörde aufgenommen werden, damit jene nachvollziehbar bleiben. Diese können aber in Form einer internen Sanktion abgehandelt werden und müssen nicht in einer Ermittlungsakte enden.
+
+
+
+§ 17 - Berechnung von Fristen
+
+(1) Bei Fristen, die in Tagen berechnet werden, zählt der Tag, an dem die Frist auferlegt wird, als erster Tag.
+
+(2) Ausnahmen sind gegeben, wenn ausdrücklich ein gerichtliches schriftliches Dokument den nachfolgenden Tag  als Fristbeginn festgelegt wird.
+
+§ 18 - Eröffnungsbeschluss
+
+(1) Der vorsitzende Richter beschließt die Eröffnung des Hauptverfahren, wenn nach den Ermittlungen und Revisionsverfahren gegen den Beschuldigten eine Straftat nach wie vor hinreichend verdächtig scheint. Ausnahme verfahren nach StPO §2.
+(2) Beschließt der vorsitzende Richter, das Hauptverfahren nicht zu eröffnen, so muss aus der Begründung hervorgehen, wieso das Gericht das Hauptverfahren nicht eröffnet.
+(3) Der Eröffnungs- bzw. Nichteröffnungsbeschluss ist dem Angeschuldigten bekanntzumachen.
+(4) Es handelt sich um keine Anfechtbaren Beschluss nach StPO §10. Es gilt StPO §19.
+
+
+§19 - Rechtsmittel gegen den Eröffnungsbeschluss
+
+(1) Der Eröffnungsbeschluss, durch den das Hauptverfahren eröffnet worden ist, kann von dem Angeklagten nicht angefochten werden.
+(2) Gegen den Eröffnungsbeschluss, durch den die Eröffnung des Hauptverfahrens abgelehnt oder abweichend von dem Antrag der Staatsanwaltschaft ist, steht der Staatsanwaltschaft sofortige Beschwerde beim Justizministerium zu.
+(3) Gibt das Justizministerium der Beschwerde statt, so kann es zugleich bestimmen, dass die Hauptverhandlung vor einem Richter geleitet wird.
+
+§20 - Vorladung
+
+(1)Die Vorschriften gelten für Vorladungen, die an Beschuldigte, Zeugen oder andere im Zusammenhang mit Ermittlungen durch Strafverfolgungsbehörden ergehen. Das FIB und die Justiz sind berechtigt Personen zu laden. 
+(2) Die Vorladung muss den Zweck, den Ort und die ladende Behörde eindeutig benennen.
+(3) Wer im Rahmen eines Ermittlungsverfahrens von einer Strafverfolgungsbehörde ordnungsgemäß vorgeladen wird, ist verpflichtet, der Vorladung nachzukommen.
+(4) Die Vorladung muss mindestens eine Frist von 4 Tagen setzen, bevor Fristverzug festgestellt werden kann.
+(5) Die Vorladung kann persönlich oder über den Arbeitgeber zugestellt werden. Der Arbeitgeber ist für die Weiterleitung verantwortlich.
+(6) Als zugestellt gilt die Vorladung, wenn diese übersandt wurde oder die betroffene Person darüber informiert wurde.
+(7) Erscheint ein vorgeladener Beschuldigter, Zeuge oder andere nicht, ohne triftigen Grund, den der Vorgeladene nicht zu verantworten hat, kann die zuständige Strafverfolgungsbehörde eine zwangsweise Befragung anordnen.
+(8) In Fällen unentschuldigten Fernbleibens oder einer nicht Weiterleitung durch den Arbeitgeber kann ein Ermittlungsverfahren eröffnet werden. Es gilt StGB § 15.
+(9) Eine Entschuldigung muss gegenüber der ladenden Behörde vorgebracht bzw. durch den Arbeitgeber überbracht werden. Die ladende Behörde kann eine neue Vorladung erteilen oder von der Vorladung abzusehen.
+
+
+
+§21 - Tateinheit und Tatmehrheit
+
+(1)Tateinheit liegt vor, wenn dieselbe Handlung mehrere Gesetze verletzt. In diesem Fall wird nur eine Strafe festgesetzt, die sich nach dem Gesetz richtet, das die schwerste Strafe androht 
+
+(2) Tatmehrheit liegt vor, wenn mehrere rechtlich selbständige Handlungen mehrere Gesetze oder dasselbe Gesetz mehrfach verletzen. In diesem Fall werden die einzelnen Strafen gesondert festgesetzt und zu einer Gesamtstrafe verbunden.
+
+
+
+
+
+§22 StPO - Freispruch
+
+(1) Wird im Verlauf der Hauptverhandlung festgestellt, dass dem Angeklagten die ihm zur Last gelegte Tat nicht nachgewiesen werden kann oder dass er sie nicht begangen hat, so ist er durch Urteil freizusprechen.
+
+(2) Ein Freispruch erfolgt insbesondere, wenn
+
+1. die Beweislage keine zur Verurteilung ausreichende Sicherheit ergibt,
+2. ein Rechtfertigungsgrund oder Schuldausschließungsgrund festgestellt wird,
+3. sich nach Abschluss der Beweisaufnahme herausstellt, dass bereits vor Anklageerhebung ein Verfahrenshindernis bestand, das einer Verurteilung dauerhaft entgegensteht.
+
+(3) Im Urteil sind die maßgeblichen tatsächlichen und rechtlichen Gründe für den Freispruch darzulegen. Dabei ist auch auf die Beweislage und etwaige verbleibende Zweifel einzugehen.
+
+(4) Ein Freispruch ist auch dann zu erlassen, wenn im Verlauf des Verfahrens festgestellt wird, dass während der Ermittlungen wesentliche strafprozessuale Vorschriften in einer Weise verletzt wurden, die die Rechte des Beschuldigten schwerwiegend beeinträchtigen. Dies gilt insbesondere, wenn
+
+1. Beweismittel unter Missachtung gesetzlicher Vorschriften erlangt wurden,
+2. Grundrechte des Beschuldigten verletzt wurden,
+3. eine objektive, unabhängige und rechtsstaatliche Ermittlungsführung nicht gewährleistet war.
+
+(5) Ergeht der Freispruch aufgrund eines schwerwiegenden Verstoßes gegen rechtsstaatliche Verfahrensgrundsätze im Sinne des Abs. 4, so ist eine erneute Strafverfolgung wegen derselben Tat unzulässig. Eine Wiederaufnahme des Verfahrens zuungunsten eines Freigesprochenen gemäß Abs. 4 ist ausgeschlossen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rechtsgrundsatz und Prinzipiengesetz (RGP)
+
+Artikel 1 Definitionsbereich
+
+Dieses Gesetz enthält die allgemeinen juristischen Prinzipien, Auslegungsregeln und überpositiven Normen, die der Anwendung, Auslegung und Systematisierung des Rechts dienen.
+
+Dieses Gesetzbuch findet keine unmittelbare Anwendung im Sinne von vollziehbaren materiellen Recht, sondern dient als Auslegungshilfe, Orientierungsrahmen und zur Gesetzesinterpretation. 
+Artikel 2 Lex Specialis
+Das Speziellere Gesetz ist dem Allgemeinerem Gesetz vorzuziehen. 
+
+Absatz 1 ist nicht allgemein, sondern in speziellen Situationen, in denen das Gesetz sich widerspricht oder unpräzise ist, anzuwenden.
+
+Des Lex Specialis Grundsatz trifft nur zu, sofern das Grundgesetz nicht zutrifft.
+
+Artikel 3 In dubio pro reo
+
+Im Falle von Zweifeln an der Schuld des Angeklagten muss zugunsten des Angeklagten entschieden werden.
+
+
+Artikel 4 Audiatur et altera pars
+In einem Gerichtsverfahren müssen alle beteiligten Parteien die Möglichkeit haben, ihre Sichtweise zu vertreten.
+
+
+
+
+
+Artikel 5 Nemo tenetur se ipsum accusare
+
+Niemand ist verpflichtet, sich selbst zu belasten.
+
+
+Artikel 6 Principium in dubio mitior
+
+Bei Zweifeln an der Schwere der Schuld oder der Strafzumessung ist die mildere Strafe anzuwenden.
+
+
+Artikel 7 Ne bis in idem
+
+Niemand darf für dieselbe Straftat mehrmals bestraft werden. 
+
+
+Artikel 8 Verhältnismäßigkeitsgrundsatz
+
+Alle Maßnahmen, die im Strafverfahren ergriffen werden, müssen im Verhältnis zur Schwere der Tat und der Notwendigkeit der Maßnahme stehen.
+
+Artikel 9 In dubio pro reo
+
+Der Staat trägt die Beweislast, um die Schuld des Angeklagten zu beweisen. Der Angeklagte muss nicht seine Unschuld beweisen.

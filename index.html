@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+      <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GesetzGPT</title>
+  </head>
+  <body>
+    <div id="app">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h2>GesetzGPT</h2>
+          <button id="new-chat-btn" class="new-chat-btn">+ Neuer Chat</button>
+        </div>
+        <div class="data-sources">
+          <h3>Datenquellen</h3>
+          <ul>
+<li class="clickable" onclick="window.open('https://docs.google.com/document/d/1VCnokyqBWW1Vf4aCNkK34uLW7kA6JIJUu3LUlbOA19A/edit?tab=t.0', '_blank');">
+  <span class="law-indicator"></span>Beamtendienstgesetz (BDG)
+</li>
+<li class="clickable" onclick="window.open('https://docs.google.com/document/d/1N6BPhsYC12G86xT3Lixpyyl8yvy6fecNk4BO36mGuGg/edit?tab=t.0', '_blank');">
+  <span class="law-indicator"></span>Öffentliches Gesetzbuch (ÖG)
+</li>
+<li class="clickable" onclick="window.open('https://docs.google.com/document/d/1cuTrfciC5WNQEW0JJruniLSZqg8pXnormDT8wZW-sHw/edit?tab=t.0', '_blank');">
+  <span class="law-indicator"></span>Justizbeitreibungsgesetz (JBeitrG)
+</li>
+<li class="clickable" onclick="window.open('https://docs.google.com/document/d/12N4-InKZ0uQFQvX3uuBWrNK9_MZFyr1fR6dtv_6xfYo/edit?tab=t.0#heading=h.jdapfhnrqwbt', '_blank');">
+  <span class="law-indicator"></span>Gerichtsverfassungsgesetz (GVG)
+</li>
+<li class="clickable" onclick="window.open('https://strafkasten.de', '_blank');">
+  <span class="law-indicator"></span>Strafkasten
+</li>
+<li class="clickable" onclick="window.open('https://discord.com/users/1023959920007200858', '_blank');">
+  <span class="law-indicator2"></span>Mady by Lenny McCalley | 179418
+</li>
+          </ul>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <div class="chat-container" id="chat-container">
+          <div class="welcome-screen" id="welcome-screen">
+            <h1>GesetzGPT</h1>
+            <p>Stellen Sie Fragen zu den Grand RP DE01 Gesetzbüchern.</p>
+            <div class="example-questions">
+            </div>
+          </div>
+          <div class="messages" id="messages"></div>
+        </div>
+
+        <div class="input-container">
+          <div class="input-wrapper">
+            <textarea
+              id="user-input"
+              placeholder="Stellen Sie Fragen zu den Grand RP DE01 Gesetzbüchern..."
+              rows="1"
+            ></textarea>
+            <button id="send-btn" class="send-btn" disabled>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+                <path d="M7 11L12 6L17 11M12 18V7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </main>
+    </div>
+      <script src="lawLoader.js" defer></script>
+  <script src="lawSearch.js" defer></script>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
